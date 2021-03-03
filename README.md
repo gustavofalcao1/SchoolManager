@@ -2,14 +2,14 @@
 	
 	Para o bom funcionamento do programa, deve-se
 	deixar a pasta GestorEscolar no diretorio C:\
-	e não alterar o nome de nehuma pasta ou arquivo
+	e nÃ£o alterar o nome de nehuma pasta ou arquivo
 	que la se encontra.
 
 	1 - Execute o Gestor Escolar.exe
-	2 - Explore todas as funçoes disponíveis
+	2 - Explore todas as funÃ§oes disponÃ­veis
 	3 - Qualquer duvida enviar suporte para
 	gustavo.falcao01@gmail.com
 
 
-Copyright © 2019 - Gustavo Falcão
+Copyright Â© 2019 - Gustavo FalcÃ£o
 =================	Gestor Escolar      ===================
