@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C8F0E42B-155F-4AD3-A2ED-506EA58E8BEF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>Gestor Escolar</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAbout.Designer.cs">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfessorDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfessorDel.Designer.cs">
+      <DependentUpon>FormProfessorDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlunosDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlunosDel.Designer.cs">
+      <DependentUpon>FormAlunosDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfessorMod1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfessorMod1.Designer.cs">
+      <DependentUpon>FormProfessorMod1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfessorMod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfessorMod.Designer.cs">
+      <DependentUpon>FormProfessorMod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlunosMod1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlunosMod1.Designer.cs">
+      <DependentUpon>FormAlunosMod1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlunosMod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlunosMod.Designer.cs">
+      <DependentUpon>FormAlunosMod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfessorDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfessorDown.Designer.cs">
+      <DependentUpon>FormProfessorDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlunosDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlunosDown.Designer.cs">
+      <DependentUpon>FormAlunosDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfessorSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfessorSearch.Designer.cs">
+      <DependentUpon>FormProfessorSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlunosSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlunosSearch.Designer.cs">
+      <DependentUpon>FormAlunosSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfessorAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfessorAdd.Designer.cs">
+      <DependentUpon>FormProfessorAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlunosAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlunosAdd.Designer.cs">
+      <DependentUpon>FormAlunosAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlunos.Designer.cs">
+      <DependentUpon>FormAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dateDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dateDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHome.Designer.cs">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfessor.Designer.cs">
+      <DependentUpon>FormProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfessorDel.resx">
+      <DependentUpon>FormProfessorDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlunosDel.resx">
+      <DependentUpon>FormAlunosDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfessorMod1.resx">
+      <DependentUpon>FormProfessorMod1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfessorMod.resx">
+      <DependentUpon>FormProfessorMod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlunosMod1.resx">
+      <DependentUpon>FormAlunosMod1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlunosMod.resx">
+      <DependentUpon>FormAlunosMod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfessorDown.resx">
+      <DependentUpon>FormProfessorDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlunosDown.resx">
+      <DependentUpon>FormAlunosDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfessorSearch.resx">
+      <DependentUpon>FormProfessorSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlunosSearch.resx">
+      <DependentUpon>FormAlunosSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfessorAdd.resx">
+      <DependentUpon>FormProfessorAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlunosAdd.resx">
+      <DependentUpon>FormAlunosAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlunos.resx">
+      <DependentUpon>FormAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHome.resx">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfessor.resx">
+      <DependentUpon>FormProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="dateDataSet.xsc">
+      <DependentUpon>dateDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dateDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dateDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dateDataSet.xss">
+      <DependentUpon>dateDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="date.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

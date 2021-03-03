@@ -1,0 +1,51 @@
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\bin\Debug\project.exe.config
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\bin\Debug\project.exe
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\bin\Debug\project.pdb
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.exe
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.pdb
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\bin\Debug\date.mdb
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormAbout.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormProfessorAdd.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormAlunosAdd.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormAlunos.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormHome.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormProfessor.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormAlunosSearch.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormProfessorSearch.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormAlunosDown.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormAlunosMod1.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormAlunosMod.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormProfessorDown.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormProfessorMod1.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormProfessorMod.resources
+C:\Users\Gustavo Falcão\Desktop\GestorEscolar\project\project\obj\Debug\project.FormAlunosDel.resources
+C:\GestorEscolar\project\project\bin\Debug\date.mdb
+C:\GestorEscolar\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\GestorEscolar\project\project\obj\Debug\project.FormAbout.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormProfessorDel.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormAlunosDel.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormProfessorMod1.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormProfessorMod.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormAlunosMod1.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormAlunosMod.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormProfessorDown.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormAlunosDown.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormProfessorSearch.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormAlunosSearch.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormProfessorAdd.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormAlunosAdd.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormAlunos.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormHome.resources
+C:\GestorEscolar\project\project\obj\Debug\project.FormProfessor.resources
+C:\GestorEscolar\project\project\obj\Debug\project.Properties.Resources.resources
+C:\GestorEscolar\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\GestorEscolar\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\GestorEscolar\project\project\bin\Debug\Gestor Escolar.exe.config
+C:\GestorEscolar\project\project\bin\Debug\Gestor Escolar.exe
+C:\GestorEscolar\project\project\bin\Debug\Gestor Escolar.pdb
+C:\GestorEscolar\project\project\obj\Debug\Gestor Escolar.exe
+C:\GestorEscolar\project\project\obj\Debug\Gestor Escolar.pdb
