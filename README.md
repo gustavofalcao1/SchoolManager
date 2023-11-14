@@ -1,16 +1,14 @@
-=================	Gestor Escolar      ===================
+=================	School Manager      ===================
 	
-	Para o bom funcionamento do programa, deve-se
-	deixar a pasta GestorEscolar no diretorio C:\
-	e não alterar o nome de nehuma pasta ou arquivo
-	que la se encontra.
-
-	1 - Execute o Gestor Escolar.exe
-	2 - Explore todas as funçoes disponíveis
-	3 - Qualquer duvida enviar suporte para
-	gustavo.falcao01@gmail.com
+	For the program to work properly, you must
+	leave the GestorEscolar folder in the C:\ directory
+	and do not change the name of any folder or file
+	that is there.
+	
+	1 - Run Gestor Escolar.exe
+	2 - Explore all available functions
 
 
-Copyright © 2019 - Gustavo Falcão
+		Copyright © 2019 - Gustavo Falcão
 
-=================	Gestor Escolar      ===================
+=================	School Manager      ===================
